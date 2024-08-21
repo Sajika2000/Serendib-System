@@ -7,8 +7,10 @@ import Navbar from "./component/Navbar"
 
 const App = () => {
   return (
-    <>
-      <Navbar/>
+    < >
+    <div >
+
+    <Navbar/>
       <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/signin" element={<SignIn/>} />
@@ -18,6 +20,10 @@ const App = () => {
 
 
       </Routes>
+
+
+    </div>
+     
     
     
     

@@ -14,9 +14,15 @@
     "@emotion/styled": "^11.13.0",
     "@mui/icons-material": "^5.16.7",
     "@mui/material": "^5.16.7",
+    "@mui/x-date-pickers": "^7.13.0",
+    "dayjs": "^1.11.13",
+    "moment": "^2.30.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.26.1"
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-oauth2-login": "^1.0.3",
+    "react-router-dom": "^6.26.1",
+    "react-simple-typewriter": "^5.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
